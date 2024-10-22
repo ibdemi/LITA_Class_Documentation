@@ -42,4 +42,9 @@ Exploratory Data Analysis entails Data Exploration to provide insights in the da
   SELECT * FROM TABLE1
   WHERE CONDITION = TRUE
   ```
+
+  ### Data Visualisation
+
+  <img width="960" alt="CLEANING TEXT 2B" src="https://github.com/user-attachments/assets/d9a20f7b-10a9-4032-ba41-922e187218dc">
   
+
