@@ -2,6 +2,20 @@
 
 ### Project Title: E Commerce Sales Analysis
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools used](#tools-used)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualisation](#data-visualisation)
+
 ### Project Overview
 
 This project is aimed at providing details into the performance of sales and products
@@ -46,5 +60,13 @@ Exploratory Data Analysis entails Data Exploration to provide insights in the da
   ### Data Visualisation
 
   <img width="960" alt="CLEANING TEXT 2B" src="https://github.com/user-attachments/assets/d9a20f7b-10a9-4032-ba41-922e187218dc">
-  
 
+  
+  <img width="960" alt="CLEANING TEXT 3B" src="https://github.com/user-attachments/assets/db2ac8f4-d7c5-44f9-9f21-9353a8803fe6">
+🥇
+
+💻
+
+|Heading 1|Heading 2|Heading 3|
+|-----|-----|-----|
+|Table 1|Table 2|Table 3|
